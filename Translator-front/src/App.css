@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .sidebar {
+    padding: 10px;
+    border-right: 2px solid #ccc;
+  }
+  
+  .sidebar h3 {
+    font-size: 1.5em;
+    margin-bottom: 20px;
+  }
+  
+  .main {
+    padding: 20px;
+  }
+  
+  h1 {
+    margin-bottom: 20px;
+  }
+  
+  .card-header {
+    padding: 10px;
+  }
+  
+  .card-title {
+    margin: 0;
+  }
+  
+  .card-body .btn {
+    margin-top: 10px;
+  }
