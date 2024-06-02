@@ -1,0 +1,17 @@
+{
+  "entries": [
+    {
+      "key": "message",
+      "translations": [
+        {
+          "languageCode": "en",
+          "text": "Welcome to our application!"
+        },
+        {
+          "languageCode": "fr",
+          "text": "Bienvenue dans notre application!"
+        }
+      ]
+    }
+  ]
+}
